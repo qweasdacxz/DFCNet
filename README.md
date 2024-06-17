@@ -25,7 +25,7 @@ We read and process the same way as [CorrNet](https://github.com/hulianyuyy/Corr
 
 | Backbone | Dev WER  | Test WER  | Pretrained model                                             |
 | -------- | ---------- | ----------- | --- |
-| ResNet18 | XXX%      | XXX%       | On the way |
+| ResNet34 | XXX%      | XXX%       | On the way |
 
 ### CSL-Daily dataset
 
@@ -33,7 +33,7 @@ To evaluate on CSL-Daily with this checkpoint, you need to replace the resnet.py
 
 | Backbone | Dev WER  | Test WER  | Pretrained model                                            |
 | -------- | ---------- | ----------- | --- |
-| ResNet18 | 26.4%      | 26.5%       | On the way |
+| ResNet34 | 26.4%      | 26.5%       | On the way |
 
 
 To evaluate the pretrained model, start by selecting the dataset in line 3 of ./config/baseline.yaml, and then execute the following command: 
