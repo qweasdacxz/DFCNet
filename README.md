@@ -17,7 +17,7 @@ We read and process the same way as [CorrNet](https://github.com/hulianyuyy/Corr
 
 | Backbone | Dev WER  | Test WER  | Pretrained model                                             |
 | -------- | ---------- | ----------- | --- |
-| ResNet34 | 17.6%      | 18.3%       | [[Baidu]](https://pan.baidu.com/s/1111) (passwd: 1111)<br />[[Google Drive]](https://drive.google.com/file/11111) |
+| ResNet34 | 17.6%      | 18.3%       | [[Baidu]](https://pan.baidu.com/s/1VVYCiYFSU34vuMuHZK6b9Q) (passwd: 1111)<br />[[Google Drive]](https://drive.google.com/file/d/1HmJYCAmtTjiUsiynJbHsVXhb9ygLOPXu/view?usp=drive_link) |
 
 
 
@@ -25,7 +25,7 @@ We read and process the same way as [CorrNet](https://github.com/hulianyuyy/Corr
 
 | Backbone | Dev WER  | Test WER  | Pretrained model                                             |
 | -------- | ---------- | ----------- | --- |
-| ResNet34 | XXX%      | XXX%       | On the way |
+| ResNet34 | 17.9%      | 19.5%       |  [[Baidu]](https://pan.baidu.com/s/1kJ6Xv3Y81bRSOrPtEKrhJw) (passwd: 1111)<br /> |
 
 ### CSL-Daily dataset
 
@@ -33,7 +33,7 @@ To evaluate on CSL-Daily with this checkpoint, you need to replace the resnet.py
 
 | Backbone | Dev WER  | Test WER  | Pretrained model                                            |
 | -------- | ---------- | ----------- | --- |
-| ResNet34 | 26.4%      | 26.5%       | On the way |
+| ResNet34 | 26.5%      | 26.4%       |  [[Baidu]](https://pan.baidu.com/s/10-i_-NZz0E8CDFDo15RDVg) (passwd: 1111)<br />|
 
 
 To evaluate the pretrained model, start by selecting the dataset in line 3 of ./config/baseline.yaml, and then execute the following command: 
